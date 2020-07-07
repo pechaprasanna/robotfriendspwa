@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotfriendspwa/static/css/main.c49b9767.chunk.css",
+    "main.js": "/robotfriendspwa/static/js/main.b2f6f244.chunk.js",
+    "main.js.map": "/robotfriendspwa/static/js/main.b2f6f244.chunk.js.map",
+    "runtime-main.js": "/robotfriendspwa/static/js/runtime-main.fcd0f640.js",
+    "runtime-main.js.map": "/robotfriendspwa/static/js/runtime-main.fcd0f640.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/robotfriendspwa/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.5a03802a.chunk.js": "/robotfriendspwa/static/js/2.5a03802a.chunk.js",
+    "static/js/2.5a03802a.chunk.js.map": "/robotfriendspwa/static/js/2.5a03802a.chunk.js.map",
+    "index.html": "/robotfriendspwa/index.html",
+    "precache-manifest.83422b87070a20a432ad01eaaac0b8ac.js": "/robotfriendspwa/precache-manifest.83422b87070a20a432ad01eaaac0b8ac.js",
+    "service-worker.js": "/robotfriendspwa/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/robotfriendspwa/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.c49b9767.chunk.css.map": "/robotfriendspwa/static/css/main.c49b9767.chunk.css.map",
+    "static/js/2.5a03802a.chunk.js.LICENSE.txt": "/robotfriendspwa/static/js/2.5a03802a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotfriendspwa/static/media/Spongeboy Me Bob.2c84a11c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcd0f640.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.5a03802a.chunk.js",
+    "static/css/main.c49b9767.chunk.css",
+    "static/js/main.b2f6f244.chunk.js"
+  ]
+}
