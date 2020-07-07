@@ -1,0 +1,25 @@
+@font-face {
+font-family: 'Spongeboy Me Bob Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Spongeboy Me Bob Regular'), url('Spongeboy Me Bob.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Crazy Cartoon Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Crazy Cartoon Regular'), url('Crazy Cartoon.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Spongeboy Me Bob Regular';
+	font-weight: 200;
+	color: #0ccac4;
+}
+
+h3 {
+	font-family: 'Crazy Cartoon Regular';
+	font-weight: 200;
+	color: #0ccac4;
+}
